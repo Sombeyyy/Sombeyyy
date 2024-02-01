@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="a" data-name="icon" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 256 256">
+  <defs>
+    <style>
+      .d {
+        fill: url(#c);
+      }
+
+      .d, .e, .f {
+        stroke-width: 0px;
+      }
+
+      .e {
+        fill: url(#b);
+      }
+
+      .f {
+        fill: #242938;
+      }
+    </style>
+    <linearGradient id="b" data-name="Unbenannter Verlauf 3" x1="46.62" y1="210.97" x2="145.73" y2="112.85" gradientTransform="translate(0 258) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#387eb8"/>
+      <stop offset="1" stop-color="#366994"/>
+    </linearGradient>
+    <linearGradient id="c" data-name="Unbenannter Verlauf 2" x1="107.49" y1="147.98" x2="213.93" y2="47.36" gradientTransform="translate(0 258) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ffe052"/>
+      <stop offset="1" stop-color="#ffc331"/>
+    </linearGradient>
+  </defs>
+  <rect class="f" width="256" height="256" rx="60" ry="60"/>
+  <path class="e" d="M127.28,28.52c-50.77,0-47.6,22.02-47.6,22.02l.06,22.81h48.45v6.85H60.49s-32.49-3.68-32.49,47.54,28.36,49.41,28.36,49.41h16.92v-23.77s-.91-28.36,27.9-28.36h48.05s27,.44,27-26.09v-43.87s4.1-26.55-48.96-26.55ZM100.56,43.86c4.82,0,8.72,3.9,8.72,8.72s-3.9,8.72-8.72,8.72-8.72-3.9-8.72-8.72,3.9-8.72,8.72-8.72Z"/>
+  <path class="d" d="M128.72,227.48c50.77,0,47.6-22.02,47.6-22.02l-.06-22.81h-48.45v-6.85h67.7s32.49,3.68,32.49-47.55-28.36-49.41-28.36-49.41h-16.92v23.77s.91,28.36-27.9,28.36h-48.05s-27-.44-27,26.09v43.87s-4.1,26.55,48.96,26.55ZM155.44,212.14c-4.82,0-8.72-3.9-8.72-8.72s3.9-8.72,8.72-8.72,8.72,3.9,8.72,8.72-3.9,8.72-8.72,8.72Z"/>
+</svg>

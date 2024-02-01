@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="a" data-name="icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256">
+  <defs>
+    <style>
+      .b {
+        fill: #fff;
+      }
+
+      .b, .c, .d {
+        stroke-width: 0px;
+      }
+
+      .c {
+        fill: #ebebeb;
+      }
+
+      .d {
+        fill: #0277bd;
+      }
+    </style>
+  </defs>
+  <rect class="d" width="256" height="256" rx="60" ry="60"/>
+  <path class="c" d="M53.75,102.21l2.86,31.94h71.48v-31.94H53.75Z"/>
+  <path class="c" d="M128.1,37.56H48l2.9,31.94h77.19v-31.94Z"/>
+  <path class="c" d="M128.1,218.4v-33.23l-.14.04-35.57-9.61-2.27-25.48h-32.06l4.48,50.15,65.43,18.16.15-.04Z"/>
+  <path class="b" d="M167.32,134.15l-3.71,41.43-35.62,9.62v33.23l65.48-18.15.48-5.4,7.51-84.09.78-8.58,5.77-64.65h-80.01v31.94h45.01l-2.91,32.71h-42.1v31.94h39.33Z"/>
+</svg>
