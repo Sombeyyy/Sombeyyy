@@ -1,16 +1,16 @@
 ### 👋 Hi There! I'm Sombeyyy
 
 <p align="center">
-    <a href="https://discord.com/users/621397023618236425">
+    <a href="https://discord.com/users/621397023618236425" target="_blank">
         <img alt="Static Badge" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
     </a>
-    <a href="mailto://contact@sombeyyy.de">
+    <a href="mailto://contact@sombeyyy.de" target="_blank">
         <img alt="Mail" src="https://img.shields.io/badge/Mail-147ee1?style=for-the-badge&logo=gmail&logoColor=white"/>
     </a>
-    <a href="https://www.linkedin.com/in/bastian-dieregsweiler-33905825b/">
+    <a href="https://www.linkedin.com/in/bastian-dieregsweiler-33905825b/" target="_blank">
         <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
     </a>
-    <a href="https://www.xing.com/profile/Bastian_Dieregsweiler/">
+    <a href="https://www.xing.com/profile/Bastian_Dieregsweiler/" target="_blank">
         <img alt="XING" src="https://img.shields.io/badge/xing-045d63?style=for-the-badge&logo=xing&logoColor=white"/>
     </a>
 </p>
@@ -26,30 +26,30 @@
 #### My skills / What I'm currently learning
 
 <p align="center">
-    <a href="https://www.java.com/">
+    <a href="https://www.java.com/" target="_blank">
         <img alt="Java" src="./assets/icon-java.svg" height="60" width="60">
     </a>
-    <a href="https://www.python.org/">
+    <a href="https://www.python.org/" target="_blank">
         <img alt="Python" src="./assets/icon-python-dark.svg" height="60" width="60">
     </a>
     <img alt="C Programming Language" src="./assets/icon-c.svg" height="60" width="60">
     <img alt="JavaScript" src="./assets/icon-javascript.svg" height="60" width="60">
     <img alt="HTML" src="./assets/icon-html.svg" height="60" width="60">
     <img alt="CSS" src="./assets/icon-css.svg" height="60" width="60">
-    <a href="https://gradle.org/">
+    <a href="https://gradle.org/" target="_blank">
         <img alt="Gradle" src="./assets/icon-gradle-dark.svg" height="60" width="60">
     </a>
-    <a href="https://maven.apache.org/">
+    <a href="https://maven.apache.org/" target="_blank">
         <img alt="Maven" src="./assets/icon-maven.svg" height="60" width="60">
     </a>
-    <a href="https://git-scm.com/">
+    <a href="https://git-scm.com/" target="_blank">
         <img alt="Git" src="./assets/icon-git.svg" height="60" width="60">
     </a>
-    <a href="https://github.com/">
+    <a href="https://github.com/" target="_blank">
         <img alt="GitHub" src="./assets/icon-github-dark.svg" height="60" width="60">
     </a>
     <img alt="Markdown" src="./assets/icon-makrdown-dark.svg" height="60" width="60">
-    <a href="https://www.docker.com/">
+    <a href="https://www.docker.com/" target="_blank">
         <img alt="Docker" src="./assets/icon-docker.svg" height="60" width="60">
     </a>
 </p>
@@ -57,16 +57,16 @@
 #### My IDEs
 
 <p align="center">
-    <a href="https://www.jetbrains.com/idea/">
+    <a href="https://www.jetbrains.com/idea/" target="_blank">
         <img alt="IntelliJ" src="./assets/icon-intellij.svg" height="60" width="60">
     </a>
-    <a href="https://www.jetbrains.com/clion/">
+    <a href="https://www.jetbrains.com/clion/" target="_blank">
         <img alt="CLion" src="./assets/icon-clion.svg" height="60" width="60">
     </a>
-    <a href="https://www.jetbrains.com/fleet/">
+    <a href="https://www.jetbrains.com/fleet/" target="_blank">
         <img alt="Fleet" src="./assets/icon-fleet.svg" height="60" width="60">
     </a>
-    <a href="https://code.visualstudio.com/">
+    <a href="https://code.visualstudio.com/" target="_blank">
         <img alt="VSCode" src="./assets/icon-vscode-dark.svg" height="60" width="60">
     </a>
 </p>
