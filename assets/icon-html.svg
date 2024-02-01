@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="a" data-name="icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256">
+  <defs>
+    <style>
+      .b {
+        fill: #e14e1d;
+      }
+
+      .b, .c, .d {
+        stroke-width: 0px;
+      }
+
+      .c {
+        fill: #fff;
+      }
+
+      .d {
+        fill: #ebebeb;
+      }
+    </style>
+  </defs>
+  <rect class="b" width="256" height="256" rx="60" ry="60"/>
+  <path class="c" d="M39.55,28l9.52,106.8h122.41l-4.11,45.81-39.41,10.66-39.34-10.64-2.63-29.41h-35.45l5.07,56.7,72.34,20.09,72.43-20.09,9.71-108.42H81.37l-3.23-36.17h135.15l3.16-35.32H39.55Z"/>
+  <path class="d" d="M128,28H39.55l9.52,106.8h78.93v-35.31h-46.63l-3.23-36.17h49.86V28Z"/>
+  <path class="d" d="M128,191.25l-.05.02-39.34-10.64-2.63-29.41h-35.45l5.07,56.7,72.34,20.09.05-.02v-36.74Z"/>
+</svg>
