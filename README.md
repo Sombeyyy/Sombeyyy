@@ -38,3 +38,20 @@
         <img alt="Docker" src="./assets/icon-docker.svg" height="60" width="60">
     </a>
 </p>
+
+#### My IDEs
+
+<p align="center">
+    <a href="https://www.jetbrains.com/idea/">
+        <img alt="IntelliJ" src="./assets/icon-intellij.svg" height="60" width="60">
+    </a>
+    <a href="https://www.jetbrains.com/clion/">
+        <img alt="CLion" src="./assets/icon-clion.svg" height="60" width="60">
+    </a>
+    <a href="https://www.jetbrains.com/fleet/">
+        <img alt="Fleet" src="./assets/icon-fleet.svg" height="60" width="60">
+    </a>
+    <a href="https://code.visualstudio.com/">
+        <img alt="VSCode" src="./assets/icon-vscode-dark.svg" height="60" width="60">
+    </a>
+</p>
