@@ -71,3 +71,10 @@
         <img alt="VSCode" src="./assets/icon-vscode-dark.svg" height="60" width="60">
     </a>
 </p>
+
+#### Stats
+
+<p align="center">
+    <img alt="GitHub-Readme-Stats" src="https://github-readme-stats.vercel.app/api?username=Sombeyyy&theme=radical&show_icons=true&hide_rank=true&custom_title=Sombeyyy's GitHub Stats" height="200">
+    <img alt="GitHub-Readme-Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sombeyyy&theme=radical&layout=compact" height="200">
+</p>
