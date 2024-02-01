@@ -1,5 +1,21 @@
 ### 👋 Hi There! I'm Sombeyyy
 
+<p align="center">
+    <a href="https://discord.com/users/621397023618236425">
+        <img alt="Static Badge" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
+    </a>
+    <a href="mailto://contact@sombeyyy.de">
+        <img alt="Mail" src="https://img.shields.io/badge/Mail-147ee1?style=for-the-badge&logo=gmail&logoColor=white">
+    </a>
+    <a href="https://www.linkedin.com/in/bastian-dieregsweiler-33905825b/">
+        <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    </a>
+    <a href="https://www.xing.com/profile/Bastian_Dieregsweiler/">
+        <img alt="XING" src="https://img.shields.io/badge/xing-045d63?style=for-the-badge&logo=xing&logoColor=white
+">
+    </a>
+</p>
+
 <p>
     I'm Bastian - better known on the Internet as Sombeyyy. I'm currently in an apprenticeship as an IT specialist for system integration. <br>
     In my free time, I enjoy reading up on a wide range of IT topics and trying them out. I have also discovered my love for
